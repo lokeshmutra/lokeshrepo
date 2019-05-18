@@ -7,4 +7,4 @@ Steps to run
       (java -jar DataProviders-1.0-SNAPSHOT.jar)
 3. Run below url in browser
    http://localhost:8080/home
-  
+4. Working screenshots can be found under DataProviders/screenshots
